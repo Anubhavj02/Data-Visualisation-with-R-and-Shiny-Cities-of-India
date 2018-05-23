@@ -11,5 +11,4 @@ It performs a state and city wise analysis/comparison through visualisation cons
  [![IMAGE ALT TEXT HERE](https://github.com/Anubhavj02/Data-Visualisation-with-R-and-Shiny-Cities-of-India/blob/master/images/screenshot2.png)](https://www.youtube.com/watch?v=KuYK-U7wDWU)
 
 - **Website Link**: [https://cities-of-india-data-visualization.shinyapps.io/CityDataVisualization/](https://cities-of-india-data-visualization.shinyapps.io/CityDataVisualization/)
-
-[![IMAGE ALT TEXT HERE](https://github.com/Anubhavj02/Data-Visualisation-with-R-and-Shiny-Cities-of-India/blob/master/images/screenshot1.png)](https://cities-of-india-data-visualization.shinyapps.io/CityDataVisualization/)
+ [![IMAGE ALT TEXT HERE](https://github.com/Anubhavj02/Data-Visualisation-with-R-and-Shiny-Cities-of-India/blob/master/images/screenshot1.png)](https://cities-of-india-data-visualization.shinyapps.io/CityDataVisualization/)
