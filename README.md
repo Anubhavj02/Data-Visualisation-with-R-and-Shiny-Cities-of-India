@@ -1,2 +1,6 @@
-# Data-Visualisation-with-R-and-Shiny-Cities-of-India-
-It is an interactive Data Visualisation Application developed on R and Shiny that provides an interactive graphical representation of Top 500 Cities of India.
+
+[![GitHub Icon](https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-32.png)](https://github.com/Anubhavj02) [![LinkedIn Icon](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-32.png)](https://www.linkedin.com/in/anubhav-jain02/) [![Email Icon](https://cdn4.iconfinder.com/data/icons/miu-flat-social/60/mail-32.png)](mailto:jainan@tcd.ie)
+# Exploring Top Cities of India using R and Shiny
+It is an interactive **Data Visualisation** application developed to represent various attributes and details of **Top Indian Cities** using interactive, visually appealing and analyst friendly graphs. It lets the users interact with the graph, change and filter the data so that the user always gets the informations that is required.
+
+It performs a state and city wise analysis/comparison through visualisation considering different parameters of the dataset.
