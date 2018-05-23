@@ -9,4 +9,4 @@ It performs a state and city wise analysis/comparison through visualisation cons
 
  - **Youtube Link**: [Cities of India Data Visualization Youtube](https://www.youtube.com/watch?v=KuYK-U7wDWU)
  
-[![](https://github.com/Anubhavj02/Data-Visualisation-with-R-and-Shiny-Cities-of-India/blob/master/images/screenshot2.png)](https://www.youtube.com/watch?v=KuYK-U7wDWU)
+[![](https://github.com/Anubhavj02/Data-Visualisation-with-R-and-Shiny-Cities-of-India/blob/master/images/screenshot2.png =250x250)](https://www.youtube.com/watch?v=KuYK-U7wDWU)
