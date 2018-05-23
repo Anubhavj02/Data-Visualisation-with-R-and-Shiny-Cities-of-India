@@ -12,3 +12,19 @@ It performs a state and city wise analysis/comparison through visualisation cons
 
 - **Website Link**: [https://cities-of-india-data-visualization.shinyapps.io/CityDataVisualization/](https://cities-of-india-data-visualization.shinyapps.io/CityDataVisualization/)
  [![IMAGE ALT TEXT HERE](https://github.com/Anubhavj02/Data-Visualisation-with-R-and-Shiny-Cities-of-India/blob/master/images/screenshot1.png)](https://cities-of-india-data-visualization.shinyapps.io/CityDataVisualization/)
+
+## Dataset Description
+The dataset ["Top Cities of India, 2011"](https://www.kaggle.com/zed9941/top-500-indian-cities/data) is taken from **Kaggle**. This dataset is constructed and aggregated from Indian Cities **Census 2011**; cities with population of more than 1 Lac have been taken into consideration for this dataset. It does not give information of the current scenario as the dataset is old and constructed from 2011 census.
+
+||  |
+|--|--|
+|  **Categorical Data**| State code, State Name, Name of City |
+|  **Ordered/ Quantitative**| Population, Male/Female Population, Total Literates, Male/Female Literates, Sex Ratio, Child Sex Ratio, Total Graduates, Male/ Female Graduates |
+
+ - **name_of_city:** Name of the city
+ - **State Attributes:** State code(unique) and State Name
+ - **Population attributes:** Total Population, Male Population, Female Population
+ - **Literacy Attributes:** Total Literates, Female Literates, Male Literates
+ - **Sex Ratio:** Ratio males to females in the population
+ - **Child Sex Ratio:** Sex ratio for the age group 0 to 6
+ - **Graduates:** Total Graduates, Male Graduates, Female Graduates
