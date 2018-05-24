@@ -17,14 +17,11 @@ It performs a state and city wise analysis/comparison through visualisation cons
 The dataset ["Top Cities of India, 2011"](https://www.kaggle.com/zed9941/top-500-indian-cities/data) is taken from **Kaggle**. This dataset is constructed and aggregated from Indian Cities **Census 2011**; cities with population of more than 1 Lac have been taken into consideration for this dataset. It does not give information of the current scenario as the dataset is old and constructed from 2011 census.
 
 
+|Type|  Attributes|
 |--|--|
 |  **Categorical Data**| State code, State Name, Name of City |
 |  **Ordered/ Quantitative**| Population, Male/Female Population, Total Literates, Male/Female Literates, Sex Ratio, Child Sex Ratio, Total Graduates, Male/ Female Graduates |
 
-| | | |
-|-|-|-|
-| Normal Key| Value1 |
-|__BoldKey__| Value2 |
 
  - **name_of_city:** Name of the city
  - **State Attributes:** State code(unique) and State Name
