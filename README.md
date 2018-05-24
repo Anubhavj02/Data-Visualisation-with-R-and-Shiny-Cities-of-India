@@ -21,6 +21,11 @@ The dataset ["Top Cities of India, 2011"](https://www.kaggle.com/zed9941/top-500
 |  **Categorical Data**| State code, State Name, Name of City |
 |  **Ordered/ Quantitative**| Population, Male/Female Population, Total Literates, Male/Female Literates, Sex Ratio, Child Sex Ratio, Total Graduates, Male/ Female Graduates |
 
+| | | |
+|-|-|-|
+| Normal Key| Value1 |
+|__BoldKey__| Value2 |
+
  - **name_of_city:** Name of the city
  - **State Attributes:** State code(unique) and State Name
  - **Population attributes:** Total Population, Male Population, Female Population
