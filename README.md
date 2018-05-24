@@ -68,21 +68,39 @@ cmd:~$ R
 
  - **Leaflet Spatial Map**
  ![enter image description here](https://github.com/Anubhavj02/Data-Visualisation-with-R-and-Shiny-Cities-of-India/blob/master/images/screenshot3.png)
+ 
+ 
  - **Choropleth and Bubble Spatial Map**
 ![enter image description here](https://github.com/Anubhavj02/Data-Visualisation-with-R-and-Shiny-Cities-of-India/blob/master/images/screenshot4.png)
+
+
 ![enter image description here](https://github.com/Anubhavj02/Data-Visualisation-with-R-and-Shiny-Cities-of-India/blob/master/images/screenshot5.png)
+
+
  - **Bar Plots and Histogram**
  ![enter image description here](https://github.com/Anubhavj02/Data-Visualisation-with-R-and-Shiny-Cities-of-India/blob/master/images/screenshot6.png)
+ 
+ 
  - **Line Charts**
  ![enter image description here](https://github.com/Anubhavj02/Data-Visualisation-with-R-and-Shiny-Cities-of-India/blob/master/images/screenshot10.png)
+ 
+ 
  - **Pie Charts**
  ![enter image description here](https://github.com/Anubhavj02/Data-Visualisation-with-R-and-Shiny-Cities-of-India/blob/master/images/screenshot8.png)
+ 
+ 
  - **Heatmap**
  ![enter image description here](https://github.com/Anubhavj02/Data-Visualisation-with-R-and-Shiny-Cities-of-India/blob/master/images/screenshot9.png)
+ 
+ 
  - **Dot Plots**
  ![enter image description here](https://github.com/Anubhavj02/Data-Visualisation-with-R-and-Shiny-Cities-of-India/blob/master/images/screenshot7.png)
+ 
+ 
  - **3D plots**
  ![enter image description here](https://github.com/Anubhavj02/Data-Visualisation-with-R-and-Shiny-Cities-of-India/blob/master/images/screenshot11.png)
+ 
+ 
  - **Box Plots**
- ![enter image description here](https://github.com/Anubhavj02/Data-Visualisation-with-R-and-Shiny-Cities-of-India/blob/master/images/screenshot5.png)
+ ![enter image description here](https://github.com/Anubhavj02/Data-Visualisation-with-R-and-Shiny-Cities-of-India/blob/master/images/screenshot12.png)
 
