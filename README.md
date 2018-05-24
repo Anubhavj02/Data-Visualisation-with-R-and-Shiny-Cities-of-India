@@ -67,8 +67,11 @@ cmd:~$ R
 ## ScreenShots
 
  - **Leaflet Spatial Map**
+ ![enter image description here](https://github.com/Anubhavj02/Data-Visualisation-with-R-and-Shiny-Cities-of-India/blob/master/images/screenshot3.png)
  - **Choropleth and Bubble Spatial Map**
+![enter image description here](https://github.com/Anubhavj02/Data-Visualisation-with-R-and-Shiny-Cities-of-India/blob/master/images/screenshot4.png)
  - **Bar Plots and Histogram**
+![enter image description here](https://github.com/Anubhavj02/Data-Visualisation-with-R-and-Shiny-Cities-of-India/blob/master/images/screenshot5.png)
  - **Line Charts**
  - **Pie Charts**
  - **Dot Plots**
