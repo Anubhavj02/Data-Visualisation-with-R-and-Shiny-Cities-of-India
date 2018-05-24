@@ -30,3 +30,49 @@ The dataset ["Top Cities of India, 2011"](https://www.kaggle.com/zed9941/top-500
  - **Sex Ratio:** Ratio males to females in the population
  - **Child Sex Ratio:** Sex ratio for the age group 0 to 6
  - **Graduates:** Total Graduates, Male Graduates, Female Graduates
+ 
+ ## R Libraries and Packages used
+ - **Visualization Packages:** [Plotly](https://plot.ly/), [Highcharter](http://jkunst.com/highcharter/), CirclePackeR, Data.tree,
+   treemap
+ - **Mapping/Spatial Graph Packages:** [Leaflet R](https://rstudio.github.io/leaflet/) and [Highcharter](http://jkunst.com/highcharter/)
+ - **Dashboard and Appearance:** [Shiny Dashboard](https://rstudio.github.io/shinydashboard/), [Shiny Themes](https://rstudio.github.io/shinythemes/) and Widgets
+
+## Steps to run
+
+1. Install R in the system
+2. Clone this repository
+3. After installing, open Terminal type
+```console
+cmd:~$ R
+```
+4. R Terminal will open in the console, install the following packages
+```console
+> install.packages("shiny")
+> install.packages("plotly")
+> install.packages("highcharter")
+> install.packages("shinydashboard")
+> install.packages("data.tree")
+> install.packages("treemap")
+> install.packages("leaflet")
+> install.packages("shinyWidgets")
+> install.packages("dplyr")
+> install.packages("shinythemes")
+> install.packages("stringr")
+```
+5. Run the app
+```console
+> runApp("--Path_To_The_Cloned_Folder--/CityDataVisualization")
+```
+
+## ScreenShots
+
+ - **Leaflet Spatial Map**
+ - **Choropleth and Bubble Spatial Map**
+ - **Bar Plots and Histogram**
+ - **Line Charts**
+ - **Pie Charts**
+ - **Dot Plots**
+ - **3D plots**
+ - **Circle Packing**
+ - **Box Plots**
+
