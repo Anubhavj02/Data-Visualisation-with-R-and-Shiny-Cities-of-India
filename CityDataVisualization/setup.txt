@@ -1,0 +1,27 @@
+Cities-Of-India-Data-Visualization-with-R-and-Shiny
+
+
+Data Visualization of Kaggle Dataset "Top Cities in India" using Shiny and R
+
+Steps to run
+
+1. Install R in the system
+
+2. After installing, open Terminal type
+cmd:~$ R
+
+3. R Terminal will open in the console, install the following packages
+> install.packages("shiny")
+> install.packages("plotly")
+> install.packages("highcharter")
+> install.packages("shinydashboard")
+> install.packages("data.tree")
+> install.packages("treemap")
+> install.packages("leaflet")
+> install.packages("shinyWidgets")
+> install.packages("dplyr")
+> install.packages("shinythemes")
+> install.packages("stringr")
+
+4. Run the app
+> runApp("--Path_To_The_Cloned_Folder--/CityDataVisualization")
